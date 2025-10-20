@@ -74,13 +74,13 @@ Bus-Ticket-Booking-System/
 
 ## 📊 ER Diagram
 
-📌 **[View ER Diagram (PDF)](./report/ER-Diagram.pdf)**
+📌 **[View ER Diagram (PDF)](./Project%20Report.pdf)**
 
 ---
 
 ## 📘 Project Report
 
-📄 **[Download Full Project Report (PDF)](./report/Project-Report.pdf)**
+📄 **[Download Full Project Report (PDF)](./Project%20Report.pdf)**
 
 The report includes:
 
@@ -205,18 +205,6 @@ cd Bus-Ticket-Booking-System
 5️⃣ Run Project
 
 * Click ▶️ Run Project in NetBeans
-
----
-
-## 🖼️ Screenshots
-
-| Login Page                        | Passenger Dashboard                                           |
-| --------------------------------- | ------------------------------------------------------------- |
-| ![Login](./screenshots/login.png) | ![Passenger Dashboard](./screenshots/passenger_dashboard.png) |
-
-| Admin Dashboard                             | Booking Details                               |
-| ------------------------------------------- | --------------------------------------------- |
-| ![Admin](./screenshots/admin_dashboard.png) | ![Booking](./screenshots/booking_details.png) |
 
 ---
 
